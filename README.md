@@ -1,6 +1,4 @@
-Here's a GitHub README template based on the questions you've provided about operating systems. This template is designed to explain the concepts clearly and in a structured manner:
 
-```markdown
 # Operating System Concepts
 
 This repository provides insights and explanations into several important concepts in Operating Systems, including Kernel, Shell, System Booting, Semaphores, Flags, and common Linux commands.
